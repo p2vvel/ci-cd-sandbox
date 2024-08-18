@@ -7,5 +7,5 @@ app = FastAPI()
 async def root():
     return {
         "message": "Hello World",
-        "version": "v1.2.0"
+        "version": "v1.3.0"
         }
